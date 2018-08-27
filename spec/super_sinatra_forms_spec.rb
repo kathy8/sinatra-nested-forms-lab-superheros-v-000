@@ -44,4 +44,3 @@ describe App do
       expect(page).to have_text("Hero Biography: I love Sinatra!")
     end
   end
-
