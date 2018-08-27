@@ -41,7 +41,7 @@ describe App do
       expect(page).to have_text("Hero Biography: I love JavaScript!")
       expect(page).to have_text("Hero Name: Katie")
       expect(page).to have_text("Hero Power: Sinatra")
-      expect(page).to have_text("Hero Biography: I love Sinatra!")
+      expect(page).to have_text("Hero Biography: I love JavaScript!")
     end
   end
 
